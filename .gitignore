@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+.ipynb_checkpoints/
+animation.mp4
+filename.png
+test.svg
+
+
