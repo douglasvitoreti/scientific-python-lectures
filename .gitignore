@@ -38,5 +38,4 @@ nosetests.xml
 animation.mp4
 filename.png
 test.svg
-
-
+mymodule.py
