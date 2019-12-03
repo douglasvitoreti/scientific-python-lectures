@@ -38,4 +38,4 @@ License
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
 
 
-Alternative link: https://drive.google.com/open?id=1m1njQKd1R6DvKC4YuUpcgUeN1dFjyreb
+Alternative link: https://drive.google.com/drive/folders/1GoFg_cc2v9zzKWozjE2pV6kn0S5A2qYm?usp=sharing
